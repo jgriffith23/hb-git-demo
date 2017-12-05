@@ -5,3 +5,6 @@ A second line of the project.
 This is my kitten feature. ~Mrrrow!
 
 Oh god fix the bugs...
+
+This is a message from Balloonicorn.
+End of message.
