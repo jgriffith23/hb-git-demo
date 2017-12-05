@@ -3,4 +3,3 @@ Project! <3
 A second line of the project.
 
 This is my kitten feature. ~Mrrrow!
-Adding a kitten from master.
